@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-12'
 papers:
   Cf2d4FkAAAAJ:2VqYfGB8ITEC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: 'Advancing Research Software Engineering with AI: A Research Framework'
     year: '2026'
   Cf2d4FkAAAAJ:Se3iqnhoufwC:
-    citations: 124
+    citations: 126
     title: Data-centric green ai an exploratory empirical study
     year: '2022'
   Cf2d4FkAAAAJ:VOx2b1Wkg3QC:
@@ -62,7 +62,7 @@ papers:
     title: "HydroModPy\u2013a Python toolbox for deploying catchment-scale shallow groundwater models"
     year: '2026'
   Cf2d4FkAAAAJ:_xSYboBqXhAC:
-    citations: 14
+    citations: 16
     title: Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques
     year: '2023'
   Cf2d4FkAAAAJ:abG-DnoFyZgC:
@@ -70,7 +70,7 @@ papers:
     title: Batching for Green AI-An Exploratory Study on Inference
     year: '2023'
   Cf2d4FkAAAAJ:b0M2c_1WBrUC:
-    citations: 603
+    citations: 614
     title: A systematic review of Green AI
     year: '2023'
   Cf2d4FkAAAAJ:bnK-pcrLprsC:
@@ -86,7 +86,7 @@ papers:
     title: 'Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners'
     year: '2026'
   Cf2d4FkAAAAJ:e_rmSamDkqQC:
-    citations: 7
+    citations: 8
     title: Can We Make Code Green? Understanding Trade-Offs in LLMs vs. Human Code Optimizations
     year: '2025'
   Cf2d4FkAAAAJ:fPk4N6BV_jEC:
@@ -94,7 +94,7 @@ papers:
     title: Student Contest on Software Engineering (SCORE)
     year: Unknown Year
   Cf2d4FkAAAAJ:hCrLmN-GePgC:
-    citations: 26
+    citations: 25
     title: 'Greening ai-enabled systems with software engineering: A research agenda for environmentally sustainable ai practices'
     year: '2025'
   Cf2d4FkAAAAJ:ipzZ9siozwsC:
@@ -114,15 +114,15 @@ papers:
     title: 'On reliability and flexibility of scientific software in environmental science: towards a systematic approach to support decision-making'
     year: '2022'
   Cf2d4FkAAAAJ:qxL8FJ1GzNcC:
-    citations: 98
+    citations: 94
     title: 'Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI'
     year: '2023'
   Cf2d4FkAAAAJ:u-x6o8ySG0sC:
-    citations: 68
+    citations: 69
     title: A Hitchhiker's Guide to Model-Driven Engineering for Data-Centric Systems
     year: '2020'
   Cf2d4FkAAAAJ:u5HHmVD_uO8C:
-    citations: 5
+    citations: 6
     title: Loop aggregation for approximate scientific computing
     year: '2020'
   Cf2d4FkAAAAJ:uc_IGeMz5qoC:
@@ -138,6 +138,6 @@ papers:
     title: 'Quantum technologies for future power & energy systems: opportunities, roadblocks, and a call to action from Quantum4EnergyNL'
     year: '2026'
   Cf2d4FkAAAAJ:ye4kPcJQO24C:
-    citations: 204
+    citations: 213
     title: 'Breaking the Silence: the Threats of Using LLMs in Software Engineering'
     year: '2024'
