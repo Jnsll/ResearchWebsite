@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-09-07'
 papers:
   Cf2d4FkAAAAJ:2VqYfGB8ITEC:
     citations: 0
@@ -42,11 +42,11 @@ papers:
     title: "Joint Proceedings of ICT4S 2023 Doctoral Symposium, Demonstrations & Posters Track and Workshops co-located with 9th International Conference on Information and Communications \u2026"
     year: '2023'
   Cf2d4FkAAAAJ:PVjk1bu6vJQC:
-    citations: 7
+    citations: 8
     title: 'Advancing Research Software Engineering with AI: A Research Framework'
     year: '2026'
   Cf2d4FkAAAAJ:Se3iqnhoufwC:
-    citations: 126
+    citations: 130
     title: Data-centric green ai an exploratory empirical study
     year: '2022'
   Cf2d4FkAAAAJ:VOx2b1Wkg3QC:
@@ -70,11 +70,11 @@ papers:
     title: Batching for Green AI-An Exploratory Study on Inference
     year: '2023'
   Cf2d4FkAAAAJ:b0M2c_1WBrUC:
-    citations: 622
+    citations: 649
     title: A systematic review of Green AI
     year: '2023'
   Cf2d4FkAAAAJ:bnK-pcrLprsC:
-    citations: 22
+    citations: 28
     title: 'EnergiBridge: Empowering Software Sustainability through Cross-Platform Energy Measurement'
     year: '2023'
   Cf2d4FkAAAAJ:d1gkVwhDpl0C:
@@ -94,7 +94,7 @@ papers:
     title: Student Contest on Software Engineering (SCORE)
     year: Unknown Year
   Cf2d4FkAAAAJ:hCrLmN-GePgC:
-    citations: 26
+    citations: 29
     title: 'Greening ai-enabled systems with software engineering: A research agenda for environmentally sustainable ai practices'
     year: '2025'
   Cf2d4FkAAAAJ:ipzZ9siozwsC:
@@ -114,11 +114,11 @@ papers:
     title: 'On reliability and flexibility of scientific software in environmental science: towards a systematic approach to support decision-making'
     year: '2022'
   Cf2d4FkAAAAJ:qxL8FJ1GzNcC:
-    citations: 94
+    citations: 95
     title: 'Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI'
     year: '2023'
   Cf2d4FkAAAAJ:u-x6o8ySG0sC:
-    citations: 69
+    citations: 70
     title: A Hitchhiker's Guide to Model-Driven Engineering for Data-Centric Systems
     year: '2020'
   Cf2d4FkAAAAJ:u5HHmVD_uO8C:
@@ -138,6 +138,6 @@ papers:
     title: 'Quantum technologies for future power & energy systems: opportunities, roadblocks, and a call to action from Quantum4EnergyNL'
     year: '2026'
   Cf2d4FkAAAAJ:ye4kPcJQO24C:
-    citations: 213
+    citations: 217
     title: 'Breaking the Silence: the Threats of Using LLMs in Software Engineering'
     year: '2024'
